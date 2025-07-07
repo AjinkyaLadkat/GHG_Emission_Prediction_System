@@ -73,3 +73,6 @@ Knowing your supply chain emissions helps businesses and individuals:
 
 Check out the working app here: [GHG Emissions Prediction](https://huggingface.co/spaces/AjinkyaLadkat/GHG_Emissions_Prediction)
 
+## License
+
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
